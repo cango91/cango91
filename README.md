@@ -5,7 +5,7 @@ I'm a former physician turned full-stack software engineer, committed to buildin
 ### My Tech Toolbox 🧰
 
 - **Programming Languages**: JavaScript | Python | C# 
-- **Frameworks**: NodeJS | React | .NET Core 
+- **Frameworks**: NodeJS | React | Django | Flask | .NET Core 
 - **Databases**: MongoDB | PostgreSQL
 - **Tools**: VS Code | Git | Postman
 - **Enterprise Software**: Slack | Zoom
